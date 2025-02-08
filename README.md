@@ -1,15 +1,11 @@
-# ECG_Anomaly_Detection
+## ECG_Anomaly_Detection
 
-This project aims to detect anomalies in Electrocardiogram (ECG) signals using machine learning techniques. The project uses data from the **MIT-BIH Arrhythmia Database**, which contains ECG signals annotated for various types of arrhythmias.
+This project detects anomalies in Electrocardiogram (ECG) signals using machine learning techniques. In this project, data from the MIT-BIH Arrhythmia Database was used to develop the algorithm; the database contains ECG signals with various types of arrhythmias annotated.
 
-## Overview
-
-ECG anomaly detection is critical in identifying potential health problems like arrhythmias, which can lead to serious conditions like heart attacks. This project demonstrates how to use **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks for detecting anomalies in ECG signals.
+ECG anomaly detection is very critical because it helps in the identification of several potential health problems such as arrhythmias, which are linked to serious conditions like heart attacks. CNN and LSTM is used for anomaly detection. 
 
 ## Dataset
 
-The dataset used in this project is the **MIT-BIH Arrhythmia Database**, a well-known ECG dataset containing 48 half-hour long, two-channel ECG recordings. These recordings are annotated with various types of arrhythmias.
+The dataset utilized for the work is the MIT-BIH Arrhythmia Database. It is a representative ECG dataset that comprises 48 half-an-hour-long, two-channel ECG recordings. These are annotated with a variety of types of arrhythmias.
 
-- **MIT-BIH Arrhythmia Database**: [MIT-BIH Database](https://physionet.org/content/mitdb/1.0.0/)
-
-
+**MIT-BIH Arrhythmia Database**: [MIT-BIH Database](https://physionet.org/content/mitdb/1.0.0/)
